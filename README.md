@@ -34,7 +34,8 @@ Spring 2024, University at Buffalo
 
 ## Course Updates 
 All updates, Q&A, Progamming Assignments, Homeworks, and Wireshark Labs are updated on Piazza. 
-Please join at the following link: https://piazza.com/buffalo/spring2024/cse4589 
+Please join at the following link: [https://piazza.com/buffalo/spring2024/cse4589]https://piazza.com/buffalo/spring2024/cse4589 
+
 Access Code: You should find it under the Announcements tab in UBLearns Brightspace.
 
 ## Course Description
@@ -58,7 +59,7 @@ At the end of this course, each student should be able to:
 
 ## Lecture Time & Location
 
-Tuesday 2:00PM-4:00PM, 440 Park Hall, North Campus
+Tuesday and Thursday, 5:00PM-6:20PM, 	Knox 104, North Campus
 
 ## Prerequisites
 
@@ -68,7 +69,7 @@ In addition, they must be **proficient in C or C++ programming**.
 
 
 ## Required Textbook
-<img src="/assets/images/cover_7th.jpg" alt="Alt text" width="100"> James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
+James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
 
 ## Reference Textbooks
 - *Computer Networks: A Systems Approach*, Larry Peterson and Bruce S. Davie.
