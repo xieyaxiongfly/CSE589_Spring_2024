@@ -34,7 +34,7 @@ Spring 2024, University at Buffalo
 
 ## Course Updates 
 All updates, Q&A, Progamming Assignments, Homeworks, and Wireshark Labs are updated on Piazza. 
-Please join at the following link: [https://piazza.com/buffalo/spring2024/cse4589]https://piazza.com/buffalo/spring2024/cse4589 
+Please join at the following link: [https://piazza.com/buffalo/spring2024/cse4589](https://piazza.com/buffalo/spring2024/cse4589)
 
 Access Code: You should find it under the Announcements tab in UBLearns Brightspace.
 
