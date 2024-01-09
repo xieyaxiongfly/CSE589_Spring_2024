@@ -32,6 +32,11 @@ Spring 2024, University at Buffalo
 {% endfor %}
 {% endif %}
 
+## Course Updates 
+All updates, Q&A, Progamming Assignments, Homeworks, and Wireshark Labs are updated on Piazza. 
+Please join at the following link: https://piazza.com/buffalo/spring2024/cse4589 
+Access Code: You should find it under the Announcements tab in UBLearns Brightspace.
+
 ## Course Description
 
 The course introduces basic elements of modern computer and telecommunication networks. The focus is on the four upper layers of the popular five-layer TCP/IP model. In each layer, the state-of-the-art hardware and software technologies are introduced. These include, for example, DNS, HTTP, SMTP, and P2P systems at the application layer, TCP/UDP protocols at the transport layer, routing and forwarding, intra-domain and inter-domain routing algorithms at the network layer, random access protocols at the MAC layer, and local area networks (Ethernet and WiFi). Advanced topics such as multipath TCP and software defined networking are also briefly discussed.
