@@ -63,7 +63,7 @@ In addition, they must be **proficient in C or C++ programming**.
 
 
 ## Required Textbook
-James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
+![TextBook](/assets/images/cover_7th.jpg) James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
 
 
 
