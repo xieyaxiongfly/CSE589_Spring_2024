@@ -1,17 +1,17 @@
 ---
 layout: home
-title: CSE610 Mobile Network & Sensing 
+title: CSE589 Modern Networking Concepts 
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Mobile Networks & Sensing 
+  name: Modern Networking Concepts 
 ---
 
-## Special Topics on Mobile Sensing & Mobile Networks 
+## Modern Networking Concepts 
 {: .fs-9 } 
 
-Fall 2022, University at Buffalo 
+Spring 2024, University at Buffalo 
 {: .fs-6 .fw-300 }
 
 **Instructor:** 
@@ -32,24 +32,38 @@ Fall 2022, University at Buffalo
 {% endfor %}
 {% endif %}
 
-**Course Description:** Nowadays, wireless technologies (cellular, Wi-Fi, mmWave) do not only provide data service but also cater to diverse applications including indoor localization, contact-free activity sensing, medical implant tracking and charging, virtual reality (VR) and autonomous driving. This course introduces the students with fundamentals in mobile networking and the state-of-the-art mobile sensing applications in the Era of Internet-of-Things. Mobile sensing is an active research area which involves wireless communication, signal processing, human computer interaction, machine learning and hardware prototyping. The intrinsic nature of sensor-free and contact-free makes mobile and wireless sensing particularly appealing in current pandemic compared to traditional sensor-based sensing. The latest research in mobile sensing has enabled many novel and exciting applications. For example, Wi-Fi signals can now be employed to differentiate very similar materials such as Pepsi and Coke. You can place your phone on the desk and turn the desk surface into a touch (input) panel with acoustic sensing. We can employ LoRa signals to sense your respiration even 50 meters away with a wall in between without any sensors. We will explore the state-of-the-art of both mobile networking and mobile sensing and make our hands dirty by working on some research projects.
+## Course Description
+
+The course introduces basic elements of modern computer and telecommunication networks. The focus is on the four upper layers of the popular five-layer TCP/IP model. In each layer, the state-of-the-art hardware and software technologies are introduced. These include, for example, DNS, HTTP, SMTP, and P2P systems at the application layer, TCP/UDP protocols at the transport layer, routing and forwarding, intra-domain and inter-domain routing algorithms at the network layer, random access protocols at the MAC layer, and local area networks (Ethernet and WiFi). Advanced topics such as multipath TCP and software defined networking are also briefly discussed.
+
+The objective of the course is to enable students to
+- gain fundamental knowledge of computer and telecommunications networks
+- understand various tradeoffs and choices in current networking technologies
+- learn basic network programming
+- prepare for studying advanced topics (e.g. CSE 620, CSE 630, CSE 646), and a career in the field of computer networking.
+
+At the end of this course, each student should be able to:
+- Have a good overall picture of computer networking in general and the Internet in particular.
+- Have a rough idea of how various networking components (hardware/software) work and where they belong in the 5-layer protocol stack.
+- Know how to do network programming in C/C++ under Unix.
+- Know how to do basic performance analysis of popular networking protocols.
+- Know how to use popular networking tools such as WireShark and iperf.
+- Start reading more advanced/research-oriented networking materials.
 
 
-**Lecture Time & Location:**Tuesday 2:00PM-4:00PM, 440 Park Hall, North Campus
+## Lecture Time & Location
 
-**Prerequisites:** CSE 489/589 Modern Network Concepts
+Tuesday 2:00PM-4:00PM, 440 Park Hall, North Campus
 
-**Slack:** We will use slack to ask questions. Pleas join the slack via this [link](https://join.slack.com/t/slack-pvl4009/shared_invite/zt-225v7oixh-ikMtTMzvE8IS2oX1MFXtJQ).
+## Prerequisites:
 
-**Paper Presentation:** Please sign up for the paper that you want to present from this [link](https://docs.google.com/spreadsheets/d/1LpBmbRhYzaUqJvbklVMF-2CA1VYYG8D_Bkq28Q6bIRI/edit?usp=sharing) 
+Students need to have some basic knowledge of operating systems, 
+calculus and probability theory, data structures, and algorithms. 
+In addition, they must be **proficient in C or C++ programming**.
 
-**Questions Regarding the Paper:** Please use [Persuall](https://www.perusall.com/) to ask questions. To find the course, please use the course code **XIE-7TTHF**. 
 
-**Grading:** The course grade will be based on the following components.
+## Required Textbook
+James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
 
-- Class Participation: 10%
-- Paper Presentation: 20%
-- Midterm: 20%
-- Course Project: 50%
 
 
