@@ -23,10 +23,15 @@ schedule:
   - name: Tuesday
     events:
       - name: Lecture
-        start: 2:00 PM
-        end: 3:30 PM
-        location: 440 Park Hall 
+        start: 5:00 PM
+        end: 6:20 PM
+        location: 104 Knox Hall 
   - name: Wednesday
   - name: Thursday
+    events:
+      - name: Lecture
+        start: 5:00 PM
+        end: 6:20 PM
+        location: 104 Knox Hall 
   - name: Friday
 ---
