@@ -132,8 +132,8 @@ Programming Assignments can be done individually or in the same team of up to 2 
 - Excuses such as "I was not sure" or "I did not know" will not be accepted. If you are not sure, ask the TAs and /or the instructor.
 - Any student may withdraw their submission (homework, lab, projects) any time, no questions asked, BEFORE any AI violation is discovered.
 
-##AI Tools
-**No use of AI Tools for any submissions **
+## AI Tools
+**No use of AI Tools for any submissions**
 - AI Tools like ChatGPT, Google Bard, etc. are not allowed.
 - They can be used to understand the concepts and for clarifications.
 - Use of AI Tools for the submissions in any class work (Homeworks/Wireshark Labs/Programming Assignments) will not be acceptable.

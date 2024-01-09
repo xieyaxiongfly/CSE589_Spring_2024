@@ -1,15 +1,15 @@
 ---
-title: Week 1
+title: 
 ---
 
-Aug 28
+Jan 22
 : N/A 
 
-Aug 29
+Jan 23
 : **Lecture**{: .label .label-purple }[Course Introduction](#)
   : [Slides](/CSE610_Fall_2023/assets/slides/lec01-intro_cse610.pdf)
 
-Aug 30
+Jan 24
 : N/A 
 
 Aug 31
