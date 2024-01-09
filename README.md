@@ -55,7 +55,7 @@ At the end of this course, each student should be able to:
 
 Tuesday 2:00PM-4:00PM, 440 Park Hall, North Campus
 
-## Prerequisites:
+## Prerequisites
 
 Students need to have some basic knowledge of operating systems, 
 calculus and probability theory, data structures, and algorithms. 
@@ -63,7 +63,7 @@ In addition, they must be **proficient in C or C++ programming**.
 
 
 ## Required Textbook
-![TextBook](/assets/images/cover_7th.jpg) James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
+<img src="/assets/images/cover_7th.jpg" alt="Alt text" width="100"> James F. F. Kurose and Keith W. Ross, "Computer Networking: A Top-Down Approach Featuring the Internet", 7th edition, Addison Wesley, 2017.
 
 
 
