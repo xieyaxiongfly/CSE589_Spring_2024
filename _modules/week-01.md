@@ -1,5 +1,5 @@
 ---
-title: 
+title: Course Schedule
 ---
 
 Jan 22
