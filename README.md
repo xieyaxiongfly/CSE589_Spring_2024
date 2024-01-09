@@ -91,7 +91,7 @@ In addition, they must be **proficient in C or C++ programming**.
   - No regrade requests will be considered after the deadlines mentioned above.
 
 
-##Grading Policies
+## Grading Policies
 (Tentative and subject to change) Each student must correctly answer all the questions in the AI Quiz before Fall Break (Oct. 9), 
 in order to receive any final grade other than F. Each student will have an unlimited number of tries before the above stated deadline.
 Assuming that the student answers all the questions in the AI Quiz correctly, 
@@ -109,7 +109,7 @@ Homework/ Wireshark Labs should be done individually.
 Programming Assignments can be done individually or in the same team of up to 2 students. Recommend to work in teams
 
 
-##Academic Integrity
+## Academic Integrity
 - **Complete the AI Quiz** available on the UBLearns Brightspace platform under Admin. More information can be found [https://www.buffalo.edu/academic-integrity/resources/Academic-Integrity-at-UB.html](HERE)
   - Successfull completion of the course is **MANDATORY** for both Undergraduate and the Graduate students
   - Upon completion please **add the link to the badge at the top of all your reports/codes** for them to be considered for grading.
