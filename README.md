@@ -61,6 +61,9 @@ At the end of this course, each student should be able to:
 
 Tuesday and Thursday, 5:00PM-6:20PM, 	Knox 104, North Campus
 
+## Important Dates
+Final Exam: 7:15PM-10:15PM, May 9th 2024
+
 ## Prerequisites
 
 Students need to have some basic knowledge of operating systems, 
